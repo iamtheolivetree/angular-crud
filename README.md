@@ -1,3 +1,13 @@
-# Angular crud with Bootstrap
+# Aplicação CRUD com Angular e Bootstrap
 
-Project dashboard crud with Bootstrap and Angular useding JSON Server.
+Este projeto é um painel de controle que contem as seguintes caracteristicas:
+
+- Inserção de produtos
+- Leitura de produtos
+- Exclusão de produtos
+- Edição de produtos
+
+Utilizando as seguintes tecnologias:
+
+- Angular 
+- Bootstrap
