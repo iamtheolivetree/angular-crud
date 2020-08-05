@@ -1,0 +1,11 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  justify-content: flex-end;
+  z-index: 100;
+}
+
+.footer > p {
+  font-weight: 300;
+}
