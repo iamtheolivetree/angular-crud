@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "reguafff",
+      "price": 3.2
+    },
+    {
+      "id": 3,
+      "name": "papel",
+      "price": 10
+    },
+    {
+      "name": "giz",
+      "price": "20.5",
+      "id": 4
+    },
+    {
+      "name": "bolsa de escola",
+      "price": "220.5",
+      "id": 5
+    },
+    {
+      "name": "lapis",
+      "price": "2",
+      "id": 6
+    },
+    {
+      "name": "caneta",
+      "price": 3.33,
+      "id": 7
+    },
+    {
+      "name": "caneta",
+      "price": 3.33,
+      "id": 8
+    },
+    {
+      "name": "caneta",
+      "price": 3.33,
+      "id": 9
+    },
+    {
+      "name": "caneta",
+      "price": 3.33,
+      "id": 10
+    },
+    {
+      "name": "caneta",
+      "price": 3.33,
+      "id": 11
+    },
+    {
+      "name": "caneta",
+      "price": 3.33,
+      "id": 12
+    },
+    {
+      "name": "caneta",
+      "price": 3.33,
+      "id": 13
+    },
+    {
+      "name": "caneta",
+      "price": 3.33,
+      "id": 14
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 15
+    },
+    {
+      "name": "veio do form",
+      "price": "123",
+      "id": 16
+    },
+    {
+      "name": "Lucas",
+      "price": "199",
+      "id": 18
+    },
+    {
+      "name": "Lucas",
+      "price": "199",
+      "id": 19
+    },
+    {
+      "name": "Lucas",
+      "price": "199",
+      "id": 20
+    },
+    {
+      "name": "Lucas",
+      "price": "199",
+      "id": 21
+    },
+    {
+      "name": "Lucas",
+      "price": "199",
+      "id": 22
+    },
+    {
+      "name": "Lucas",
+      "price": "199",
+      "id": 23
+    },
+    {
+      "name": "Lucas",
+      "price": "199",
+      "id": 24
+    }
+  ]
+}
