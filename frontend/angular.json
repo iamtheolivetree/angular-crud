@@ -87,6 +87,12 @@
             }
           }
         },
+        "test": {
+          "builder": "@angular-builders/jest:run",
+          "options": {
+
+          }
+        },
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
